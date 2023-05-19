@@ -1,0 +1,158 @@
+{
+	"players": [
+		{
+			"id": 1,
+			"player_id": 1,
+			"name": "Lionel Messi",
+			"age": 34,
+			"position": "Forward",
+			"previous_clubs": [],
+			"club": "Paris Saint-Germain FC",
+			"national_team": "Argentina",
+			"jersey_number": 30,
+			"height_cm": 170,
+			"weight_kg": 72,
+			"foot": "Left",
+			"preferred_positions": ["Right Wing", "Central Attacking Midfield"],
+			"strengths": ["Dribbling", "Ball Control", "Vision", "Finishing"],
+			"weaknesses": ["Defensive Workrate", "Aerial Duels"],
+			"stats": {
+				"appearances": 778,
+				"goals": 677,
+				"assists": 297,
+				"yellow_cards": 99,
+				"red_cards": 3,
+				"tackles_per_game": 0.7,
+				"shots_per_game": 4.5,
+				"pass_success_rate": 82.6
+			},
+			"honors": {
+				"club": [
+					{ "name": "FC Barcelona", "trophy": "10x La Liga Winner" },
+					{ "name": "Paris Saint-Germain FC", "trophy": "1x Ligue 1 Winner" }
+				],
+				"national_team": [
+					{ "name": "Argentina", "trophy": "1x World Cup Winner" }
+				],
+				"individual": [
+					{ "name": "FIFA World Player of the Year", "trophy": "7x Winner" },
+					{ "name": "Ballon d'Or", "trophy": "7x Winner" },
+					{ "name": "Golden Foot", "trophy": "2x Winner" }
+				]
+			}
+		},
+		{
+			"id": 2,
+			"player_id": 2,
+			"name": "Lionel Messi",
+			"age": 34,
+			"position": "Forward",
+			"previous_clubs": [],
+			"club": "Paris Saint-Germain FC",
+			"national_team": "Argentina",
+			"jersey_number": 30,
+			"height_cm": 170,
+			"weight_kg": 72,
+			"foot": "Left",
+			"preferred_positions": ["Right Wing", "Central Attacking Midfield"],
+			"strengths": ["Dribbling", "Ball Control", "Vision", "Finishing"],
+			"weaknesses": ["Defensive Workrate", "Aerial Duels"],
+			"stats": {
+				"appearances": 778,
+				"goals": 677,
+				"assists": 297,
+				"yellow_cards": 99,
+				"red_cards": 3,
+				"tackles_per_game": 0.7,
+				"shots_per_game": 4.5,
+				"pass_success_rate": 82.6
+			},
+			"honors": {
+				"club": [
+					{ "name": "FC Barcelona", "trophy": "10x La Liga Winner" },
+					{ "name": "Paris Saint-Germain FC", "trophy": "1x Ligue 1 Winner" }
+				],
+				"national_team": [
+					{ "name": "Argentina", "trophy": "1x World Cup Winner" }
+				],
+				"individual": [
+					{ "name": "FIFA World Player of the Year", "trophy": "7x Winner" },
+					{ "name": "Ballon d'Or", "trophy": "7x Winner" },
+					{ "name": "Golden Foot", "trophy": "2x Winner" }
+				]
+			}
+		}
+	],
+	"coaches": [],
+	"videos": [
+		{
+			"id": 110,
+			"videoTitle": "Progen vs Inter Millas",
+			"src": "./assets/vid1.mp4"
+		},
+		{
+			"id": 115,
+			"videoTitle": "CFC vs Inter Millas",
+			"src": "./assets/vid1.mp4"
+		},
+		{
+			"id": 150,
+			"videoTitle": "CFC vs Progen",
+			"src": "./assets/vid1.mp4"
+		}
+	],
+	"menTeam": [],
+	"fixtures": [
+		{
+			"id": 545,
+			"awayTeam": {
+				"name": "FC Barcelona",
+				"badge": ""
+			},
+			"homeTeam": {
+				"name": "Real Madrid",
+				"badge": ""
+			},
+			"date": "Mon 28 May 2023",
+			"league": "Premier",
+			"time": ""
+		},
+		{
+			"id": 555,
+			"awayTeam": {
+				"name": "Liverpool",
+				"badge": ""
+			},
+			"homeTeam": {
+				"name": "Man City",
+				"badge": ""
+			},
+			"date": "Thu 15 June 2023",
+			"league": "Premier",
+			"time": ""
+		}
+	],
+	"womenTeam": [],
+	"news": [
+		{
+			"id": 140,
+			"videoTitle": "News from Inter Millas",
+			"src": "./assets/vid1.mp4"
+		},
+		{
+			"id": 165,
+			"videoTitle": "Breaking News: CFC bought CR7",
+			"src": "./assets/vid1.mp4"
+		},
+		{
+			"id": 180,
+			"videoTitle": "Progen Coach sacked on Tuesday",
+			"src": "./assets/vid1.mp4"
+		},
+		{
+			"id": 187,
+			"videoTitle": "Progen Coach sacked on Tuesday",
+			"src": "./assets/vid1.mp4"
+		}
+	]
+}
